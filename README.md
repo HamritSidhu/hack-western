@@ -1,4 +1,4 @@
-# hack-western
+# TextLoc
 
-TextLoc - A HackWestern Project. 
+A HackWestern Project. 
 http://devpost.com/software/textloc-f9zbj
